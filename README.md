@@ -23,7 +23,7 @@ I explore the intersection of:
 
 ## Approach
 
-I’m interested in how creative work is actually made — not just the output, but the systems behind it.
+I’m interested in how creative work is actually made; not just the output, but the systems behind it.
 
 This includes:
 
